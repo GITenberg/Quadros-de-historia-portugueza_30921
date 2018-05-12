@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34896'
     url: http://www.gutenberg.org/2009/agents/34896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30921#Quadros-de-historia-portugueza
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2010-01-10'
 gutenberg_type: Text
