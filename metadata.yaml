@@ -1,0 +1,33 @@
+_repo: Quadros-de-historia-portugueza_30921
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silveira da Mota, I. F.
+    aliases:
+    - Mota, Inácio Francisco Silveira da
+    - Motta, Ignacio Francisco Silveira da
+    - Mota, I. F. Silveira da
+    - Da Mota, I. F. Silveira
+    birthdate: 1836
+    deathdate: 1907
+    gutenberg_agent_id: '34896'
+    url: http://www.gutenberg.org/2009/agents/34896
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30921'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Period of discoveries, 1385-1580'
+- !lcsh 'Portugal -- History -- To 1385'
+title: Quadros de historia portugueza
+url: http://www.gutenberg.org/ebooks/30921
